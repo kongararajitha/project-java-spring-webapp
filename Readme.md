@@ -5,7 +5,7 @@
 | Java | Spring | Azure Web App, Virtual Machine| |
 
 
-# Java Spring boot web application
+# Java1 Spring boot web application
 
 Sample Java Spring Boot web application that you can use to deploy on Azure.
 
